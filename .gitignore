@@ -1,0 +1,12 @@
+# Ignore dataset
+dataset/
+*.zip
+
+# Ignore model files
+*.pth
+
+# Ignore virtual environment
+.venv/
+
+# Ignore results
+results/
